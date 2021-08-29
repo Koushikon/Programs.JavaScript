@@ -1,3 +1,10 @@
+
+desktop.ini
+
+# Exclude Folders
 N_app/
 playground/
-Fibonacci/
+
+# Exclude Files
+BU_*
+TD_*
