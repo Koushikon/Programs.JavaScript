@@ -5,7 +5,7 @@ Here almost every `JavaScript` 🐱‍🏍 files are my Practice files. I learn 
 <!-- Logo -->
 
 &emsp;[![Open in VS Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/Koushikon/JS.Programs) 
-&emsp;[![Lines Of Code](https://tokei.rs/b1/github.com/Koushikon/CPP.Programs?category=code)](https://github.com/Koushikon/JS.Programs)
+&emsp;[![Lines Of Code](https://tokei.rs/b1/github.com/Koushikon/JS.Programs?category=code)](https://github.com/Koushikon/JS.Programs)
 
 ```Plain
     HR -> HackerRank
