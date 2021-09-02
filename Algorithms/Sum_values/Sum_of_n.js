@@ -1,3 +1,5 @@
+// Sum of n natural numbers
+
 function sum_of_natural_slow(n) {
     let total = 0
     for (let i = 1; i <= n; ++i)
