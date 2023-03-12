@@ -5,6 +5,12 @@
 		}
 	],
 	"settings": {
+		"files.exclude": {
+			"**/*.ini": true,
+			"**/.git": true,
+			"**/*.o": true,
+			"**/*.exe": true,
+		},
 		"files.defaultLanguage": "${activeEditorLanguage}"
 	}
 }
